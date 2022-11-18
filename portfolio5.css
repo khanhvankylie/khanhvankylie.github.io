@@ -1,0 +1,323 @@
+.portfolio5-container {
+  min-height: 100vh;
+}
+.portfolio5-portfolio5 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(34, 34, 34, 1);
+}
+.portfolio5-frame48096364 {
+  top: 37px;
+  left: 61px;
+  width: 256px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.portfolio5-arrowleft {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.portfolio5-vuesaxlineararrowleft {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-arrowleft1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-vector {
+  top: 5.440000057220459px;
+  left: 10.536665916442871px;
+  width: 9px;
+  height: 21px;
+  position: absolute;
+}
+.portfolio5-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.portfolio5-frame48096371 {
+  top: 107px;
+  left: 60px;
+  width: 1392px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.portfolio5-frame48096363 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+  flex-direction: column;
+}
+.portfolio5-text2 {
+  color: var(--dl-color-ref_neutral-neutral80);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 26px;
+  text-decoration: none;
+}
+.portfolio5-text4 {
+  color: var(--dl-color-ref_neutral-neutral60);
+  width: 680px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.portfolio5-i-phone12pro-wooden-hands {
+  width: 696px;
+  height: 917px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-wood-hand {
+  top: 0px;
+  left: 0px;
+  width: 696px;
+  height: 917px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-hand {
+  top: 90.25px;
+  left: 0px;
+  width: 696px;
+  height: 827px;
+  position: absolute;
+  border-color: transparent;
+}
+.portfolio5-i-phone12 {
+  top: 0px;
+  left: 66px;
+  width: 332px;
+  height: 670px;
+  position: absolute;
+  border-color: transparent;
+}
+.portfolio5-mockup {
+  top: 16.1258544921875px;
+  left: 84.1986083984375px;
+  width: 294.83013916015625px;
+  height: 636.9940795898438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-mask2 {
+  top: 0px;
+  left: 0px;
+  width: 294.83013916015625px;
+  height: 636.9940795898438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 295px;
+  height: 637px;
+  position: absolute;
+}
+.portfolio5-design {
+  top: -0.574951171875px;
+  left: -0.68212890625px;
+  width: 296px;
+  height: 638px;
+  position: absolute;
+  border-radius: 35px;
+  border-color: transparent;
+}
+.portfolio5-scrolldown {
+  top: 944px;
+  left: 61px;
+  width: 101px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.portfolio5-text6 {
+  color: var(--dl-color-ref_neutral-neutral70);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 12px;
+}
+.portfolio5-bichevrondoubledown {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.portfolio5-group {
+  top: 2.4991061687469482px;
+  left: 1.4991061687469482px;
+  width: 13.001524925231934px;
+  height: 11.001787185668945px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio5-vector2 {
+  top: 4px;
+  left: 0px;
+  width: 13px;
+  height: 7px;
+  position: absolute;
+}
+.portfolio5-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 7px;
+  position: absolute;
+}

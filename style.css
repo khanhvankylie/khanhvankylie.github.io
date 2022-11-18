@@ -1,0 +1,393 @@
+:root {
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-size-size-maxwidth: 1400px;
+  --dl-color-default-blob1: rgba(127, 255, 255, 1);
+  --dl-radius-radius-round: 50%;
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-color-sys_light-error: rgba(255, 180, 171, 1);
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-color-key-colors-error: rgba(186, 26, 26, 1);
+  --dl-color-neutral-color800: rgba(29, 43, 94, 1);
+  --dl-color-ref_error-error0: rgba(0, 0, 0, 1);
+  --dl-color-ref_error-error5: rgba(45, 0, 1, 1);
+  --dl-color-sys_light-shadow: rgba(0, 0, 0, 1);
+  --dl-space-space-threeunits: 48px;
+  --dl-color-ref_error-error10: rgba(65, 0, 2, 1);
+  --dl-color-ref_error-error15: rgba(84, 0, 3, 1);
+  --dl-color-ref_error-error20: rgba(105, 0, 5, 1);
+  --dl-color-ref_error-error25: rgba(126, 0, 7, 1);
+  --dl-color-ref_error-error30: rgba(147, 0, 10, 1);
+  --dl-color-ref_error-error35: rgba(168, 7, 16, 1);
+  --dl-color-ref_error-error40: rgba(186, 26, 26, 1);
+  --dl-color-ref_error-error50: rgba(222, 55, 48, 1);
+  --dl-color-ref_error-error60: rgba(255, 84, 73, 1);
+  --dl-color-ref_error-error70: rgba(255, 137, 125, 1);
+  --dl-color-ref_error-error80: rgba(255, 180, 171, 1);
+  --dl-color-ref_error-error90: rgba(255, 218, 214, 1);
+  --dl-color-ref_error-error95: rgba(255, 237, 234, 1);
+  --dl-color-ref_error-error98: rgba(255, 248, 247, 1);
+  --dl-color-ref_error-error99: rgba(255, 251, 255, 1);
+  --dl-color-sys_light-onerror: rgba(105, 0, 5, 1);
+  --dl-color-sys_light-outline: rgba(145, 144, 154, 1);
+  --dl-color-sys_light-primary: rgba(189, 194, 255, 1);
+  --dl-color-sys_light-surface: rgba(27, 27, 31, 1);
+  --dl-color-default-socialtag1: rgba(218, 244, 255, 1);
+  --dl-color-default-socialtag2: rgba(225, 172, 249, 1);
+  --dl-color-default-socialtag3: rgba(165, 165, 165, 1);
+  --dl-color-default-socialtag4: rgba(239, 110, 110, 1);
+  --dl-color-default-socialtag5: rgba(159, 189, 247, 1);
+  --dl-color-key-colors-neutral: rgba(95, 94, 98, 1);
+  --dl-color-key-colors-primary: rgba(74, 58, 255, 1);
+  --dl-color-ref_error-error100: rgba(255, 255, 255, 1);
+  --dl-color-sys_light-tertiary: rgba(251, 175, 227, 1);
+  --dl-color-key-colors-tertiary: rgba(119, 83, 108, 1);
+  --dl-color-sys_light-onprimary: rgba(0, 20, 158, 1);
+  --dl-color-sys_light-onsurface: rgba(228, 225, 230, 1);
+  --dl-color-sys_light-secondary: rgba(192, 195, 239, 1);
+  --dl-color-key-colors-secondary: rgba(91, 93, 114, 1);
+  --dl-color-ref_neutral-neutral0: rgba(0, 0, 0, 1);
+  --dl-color-ref_neutral-neutral5: rgba(17, 17, 20, 1);
+  --dl-color-ref_primary-primary0: rgba(0, 0, 0, 1);
+  --dl-color-ref_primary-primary5: rgba(0, 4, 71, 1);
+  --dl-color-sys_light-background: rgba(27, 27, 31, 1);
+  --dl-color-sys_light-ontertiary: rgba(81, 27, 70, 1);
+  --dl-color-ref_neutral-neutral10: rgba(27, 27, 31, 1);
+  --dl-color-ref_neutral-neutral15: rgba(38, 37, 41, 1);
+  --dl-color-ref_neutral-neutral20: rgba(48, 48, 52, 1);
+  --dl-color-ref_neutral-neutral25: rgba(59, 59, 63, 1);
+  --dl-color-ref_neutral-neutral30: rgba(71, 70, 74, 1);
+  --dl-color-ref_neutral-neutral35: rgba(83, 82, 86, 1);
+  --dl-color-ref_neutral-neutral40: rgba(95, 94, 98, 1);
+  --dl-color-ref_neutral-neutral50: rgba(120, 118, 122, 1);
+  --dl-color-ref_neutral-neutral60: rgba(146, 144, 148, 1);
+  --dl-color-ref_neutral-neutral70: rgba(172, 170, 175, 1);
+  --dl-color-ref_neutral-neutral80: rgba(200, 197, 202, 1);
+  --dl-color-ref_neutral-neutral90: rgba(228, 225, 230, 1);
+  --dl-color-ref_neutral-neutral95: rgba(243, 240, 244, 1);
+  --dl-color-ref_neutral-neutral98: rgba(252, 248, 253, 1);
+  --dl-color-ref_neutral-neutral99: rgba(255, 251, 255, 1);
+  --dl-color-ref_primary-primary10: rgba(0, 9, 101, 1);
+  --dl-color-ref_primary-primary15: rgba(0, 14, 129, 1);
+  --dl-color-ref_primary-primary20: rgba(0, 20, 158, 1);
+  --dl-color-ref_primary-primary25: rgba(0, 26, 189, 1);
+  --dl-color-ref_primary-primary30: rgba(0, 32, 221, 1);
+  --dl-color-ref_primary-primary35: rgba(27, 50, 235, 1);
+  --dl-color-ref_primary-primary40: rgba(46, 67, 246, 1);
+  --dl-color-ref_primary-primary50: rgba(83, 101, 255, 1);
+  --dl-color-ref_primary-primary60: rgba(120, 134, 255, 1);
+  --dl-color-ref_primary-primary70: rgba(154, 164, 255, 1);
+  --dl-color-ref_primary-primary80: rgba(189, 194, 255, 1);
+  --dl-color-ref_primary-primary90: rgba(223, 224, 255, 1);
+  --dl-color-ref_primary-primary95: rgba(241, 239, 255, 1);
+  --dl-color-ref_primary-primary98: rgba(251, 248, 255, 1);
+  --dl-color-ref_primary-primary99: rgba(255, 251, 255, 1);
+  --dl-color-sys_light-onsecondary: rgba(42, 46, 81, 1);
+  --dl-color-sys_light-surfacetint: rgba(189, 194, 255, 1);
+  --dl-space-space-oneandhalfunits: 24px;
+  --dl-color-ref_neutral-neutral100: rgba(255, 255, 255, 1);
+  --dl-color-ref_neutral-neutralnan: rgba(255, 255, 255, 1);
+  --dl-color-ref_primary-primary100: rgba(255, 255, 255, 1);
+  --dl-color-ref_tertiary-tertiary0: rgba(0, 0, 0, 1);
+  --dl-color-ref_tertiary-tertiary5: rgba(33, 7, 27, 1);
+  --dl-color-sys_light-onbackground: rgba(228, 225, 230, 1);
+  --dl-color-ref_tertiary-tertiary10: rgba(46, 17, 39, 1);
+  --dl-color-ref_tertiary-tertiary15: rgba(57, 28, 49, 1);
+  --dl-color-ref_tertiary-tertiary20: rgba(69, 38, 60, 1);
+  --dl-color-ref_tertiary-tertiary25: rgba(81, 49, 72, 1);
+  --dl-color-ref_tertiary-tertiary30: rgba(94, 60, 83, 1);
+  --dl-color-ref_tertiary-tertiary35: rgba(106, 72, 95, 1);
+  --dl-color-ref_tertiary-tertiary40: rgba(119, 83, 108, 1);
+  --dl-color-ref_tertiary-tertiary50: rgba(146, 107, 133, 1);
+  --dl-color-ref_tertiary-tertiary60: rgba(174, 133, 159, 1);
+  --dl-color-ref_tertiary-tertiary70: rgba(202, 159, 186, 1);
+  --dl-color-ref_tertiary-tertiary80: rgba(231, 185, 214, 1);
+  --dl-color-ref_tertiary-tertiary90: rgba(255, 215, 239, 1);
+  --dl-color-ref_tertiary-tertiary95: rgba(255, 236, 245, 1);
+  --dl-color-ref_tertiary-tertiary98: rgba(255, 248, 249, 1);
+  --dl-color-ref_tertiary-tertiary99: rgba(255, 251, 255, 1);
+  --dl-color-surfaces_light-surface1: rgba(27, 27, 31, 1);
+  --dl-color-surfaces_light-surface2: rgba(27, 27, 31, 1);
+  --dl-color-surfaces_light-surface3: rgba(27, 27, 31, 1);
+  --dl-color-surfaces_light-surface4: rgba(27, 27, 31, 1);
+  --dl-color-surfaces_light-surface5: rgba(27, 27, 31, 1);
+  --dl-color-ref_secondary-secondary0: rgba(0, 0, 0, 1);
+  --dl-color-ref_secondary-secondary5: rgba(14, 16, 33, 1);
+  --dl-color-ref_tertiary-tertiary100: rgba(255, 255, 255, 1);
+  --dl-color-sys_light-errorcontainer: rgba(147, 0, 10, 1);
+  --dl-color-sys_light-inverseprimary: rgba(46, 67, 246, 1);
+  --dl-color-sys_light-inversesurface: rgba(228, 225, 230, 1);
+  --dl-color-sys_light-surfacevariant: rgba(70, 70, 79, 1);
+  --dl-color-key-colors-neutralvariant: rgba(94, 93, 103, 1);
+  --dl-color-ref_secondary-secondary10: rgba(24, 26, 44, 1);
+  --dl-color-ref_secondary-secondary15: rgba(35, 36, 55, 1);
+  --dl-color-ref_secondary-secondary20: rgba(45, 47, 66, 1);
+  --dl-color-ref_secondary-secondary25: rgba(56, 58, 77, 1);
+  --dl-color-ref_secondary-secondary30: rgba(68, 69, 89, 1);
+  --dl-color-ref_secondary-secondary35: rgba(79, 81, 101, 1);
+  --dl-color-ref_secondary-secondary40: rgba(91, 93, 114, 1);
+  --dl-color-ref_secondary-secondary50: rgba(116, 117, 139, 1);
+  --dl-color-ref_secondary-secondary60: rgba(142, 143, 166, 1);
+  --dl-color-ref_secondary-secondary70: rgba(169, 169, 193, 1);
+  --dl-color-ref_secondary-secondary80: rgba(196, 197, 221, 1);
+  --dl-color-ref_secondary-secondary90: rgba(224, 224, 249, 1);
+  --dl-color-ref_secondary-secondary95: rgba(241, 239, 255, 1);
+  --dl-color-ref_secondary-secondary98: rgba(251, 248, 255, 1);
+  --dl-color-ref_secondary-secondary99: rgba(255, 251, 255, 1);
+  --dl-color-ref_secondary-secondary100: rgba(255, 255, 255, 1);
+  --dl-color-sys_light-inverseonsurface: rgba(48, 48, 52, 1);
+  --dl-color-sys_light-onerrorcontainer: rgba(255, 180, 171, 1);
+  --dl-color-sys_light-onsurfacevariant: rgba(199, 197, 208, 1);
+  --dl-color-sys_light-primarycontainer: rgba(0, 32, 221, 1);
+  --dl-color-sys_light-surfacetintcolor: rgba(189, 194, 255, 1);
+  --dl-color-sys_light-tertiarycontainer: rgba(108, 50, 93, 1);
+  --dl-color-extended_warning_group-tone0: rgba(0, 0, 0, 1);
+  --dl-color-extended_warning_group-tone5: rgba(45, 0, 1, 1);
+  --dl-color-extended_warning_light-color: rgba(255, 180, 171, 1);
+  --dl-color-sys_light-onprimarycontainer: rgba(223, 224, 255, 1);
+  --dl-color-sys_light-secondarycontainer: rgba(64, 68, 104, 1);
+  --dl-color-extended_warning_group-tone10: rgba(65, 0, 2, 1);
+  --dl-color-extended_warning_group-tone15: rgba(84, 0, 3, 1);
+  --dl-color-extended_warning_group-tone20: rgba(105, 0, 5, 1);
+  --dl-color-extended_warning_group-tone25: rgba(126, 0, 7, 1);
+  --dl-color-extended_warning_group-tone30: rgba(143, 16, 17, 1);
+  --dl-color-extended_warning_group-tone35: rgba(160, 31, 27, 1);
+  --dl-color-extended_warning_group-tone40: rgba(177, 44, 38, 1);
+  --dl-color-extended_warning_group-tone50: rgba(211, 68, 59, 1);
+  --dl-color-extended_warning_group-tone60: rgba(246, 93, 82, 1);
+  --dl-color-extended_warning_group-tone70: rgba(255, 137, 125, 1);
+  --dl-color-extended_warning_group-tone80: rgba(255, 180, 171, 1);
+  --dl-color-extended_warning_group-tone90: rgba(255, 218, 214, 1);
+  --dl-color-extended_warning_group-tone95: rgba(255, 237, 234, 1);
+  --dl-color-extended_warning_group-tone98: rgba(255, 248, 247, 1);
+  --dl-color-extended_warning_group-tone99: rgba(255, 251, 255, 1);
+  --dl-color-sys_light-ontertiarycontainer: rgba(255, 215, 239, 1);
+  --dl-color-extended_success_light-success: rgba(151, 217, 70, 1);
+  --dl-color-extended_warning_group-tone100: rgba(255, 255, 255, 1);
+  --dl-color-extended_warning_light-oncolor: rgba(105, 0, 5, 1);
+  --dl-color-extended_warning_light-warning: rgba(255, 184, 108, 1);
+  --dl-color-sys_light-onsecondarycontainer: rgba(223, 224, 255, 1);
+  --dl-color-extended_success_light-onsuccess: rgba(30, 55, 0, 1);
+  --dl-color-extended_warning_light-onwarning: rgba(73, 41, 0, 1);
+  --dl-color-extended_warning_light-customcolor1: rgba(255, 180, 168, 1);
+  --dl-color-ref_neutral-variant-neutralvariant0: rgba(0, 0, 0, 1);
+  --dl-color-ref_neutral-variant-neutralvariant5: rgba(16, 16, 24, 1);
+  --dl-color-extended_container1_light-container1: rgba(152, 203, 255, 1);
+  --dl-color-ref_neutral-variant-neutralvariant10: rgba(26, 27, 35, 1);
+  --dl-color-ref_neutral-variant-neutralvariant15: rgba(37, 37, 45, 1);
+  --dl-color-ref_neutral-variant-neutralvariant20: rgba(47, 48, 56, 1);
+  --dl-color-ref_neutral-variant-neutralvariant25: rgba(59, 59, 67, 1);
+  --dl-color-ref_neutral-variant-neutralvariant30: rgba(70, 70, 79, 1);
+  --dl-color-ref_neutral-variant-neutralvariant35: rgba(82, 82, 91, 1);
+  --dl-color-ref_neutral-variant-neutralvariant40: rgba(94, 93, 103, 1);
+  --dl-color-ref_neutral-variant-neutralvariant50: rgba(119, 118, 128, 1);
+  --dl-color-ref_neutral-variant-neutralvariant60: rgba(145, 144, 154, 1);
+  --dl-color-ref_neutral-variant-neutralvariant70: rgba(171, 170, 180, 1);
+  --dl-color-ref_neutral-variant-neutralvariant80: rgba(199, 197, 208, 1);
+  --dl-color-ref_neutral-variant-neutralvariant90: rgba(227, 225, 236, 1);
+  --dl-color-ref_neutral-variant-neutralvariant95: rgba(242, 239, 250, 1);
+  --dl-color-ref_neutral-variant-neutralvariant98: rgba(251, 248, 255, 1);
+  --dl-color-ref_neutral-variant-neutralvariant99: rgba(255, 251, 255, 1);
+  --dl-color-extended_warning_light-colorcontainer: rgba(143, 16, 17, 1);
+  --dl-color-extended_warning_light-oncustomcolor1: rgba(105, 1, 0, 1);
+  --dl-color-ref_neutral-variant-neutralvariant100: rgba(255, 255, 255, 1);
+  --dl-color-extended_container1_light-oncontainer1: rgba(0, 51, 84, 1);
+  --dl-color-extended_success_light-successcontainer: rgba(46, 79, 0, 1);
+  --dl-color-extended_warning_light-oncolorcontainer: rgba(255, 218, 214, 1);
+  --dl-color-extended_warning_light-warningcontainer: rgba(104, 61, 0, 1);
+  --dl-color-extended_success_light-onsuccesscontainer: rgba(178, 246, 96, 1);
+  --dl-color-extended_warning_light-onwarningcontainer: rgba(255, 220, 188, 1);
+  --dl-color-extended_warning_light-customcolor1container: rgba(147, 1, 0, 1);
+  --dl-color-extended_container1_light-container1container: rgba(0, 74, 119, 1);
+  --dl-color-extended_warning_light-oncustomcolor1container: rgba(255, 218, 212, 1);
+  --dl-color-extended_container1_light-oncontainer1container: rgba(207, 229, 255, 1);
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.displaysmall {
+  font-size: 36px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.bodylarge {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.displaylarge {
+  font-size: 57px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.titlemedium {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.displaymedium {
+  font-size: 45px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.titlesmall {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.labellarge {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.headlinemedium {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.bodysmall {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.labelmedium {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.bodymedium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.labelsmall {
+  font-size: 11px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.headlinelarge {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.titlelarge {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}
+.headlinesmall {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 600px;
+  font-stretch: normal;
+}

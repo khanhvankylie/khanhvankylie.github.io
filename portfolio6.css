@@ -1,0 +1,232 @@
+.portfolio6-container {
+  min-height: 100vh;
+}
+.portfolio6-portfolio6 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(34, 34, 34, 1);
+}
+.portfolio6-frame48096364 {
+  top: 37px;
+  left: 61px;
+  width: 267px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.portfolio6-arrowleft {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.portfolio6-vuesaxlineararrowleft {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio6-arrowleft1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio6-vector {
+  top: 5.440000057220459px;
+  left: 10.536665916442871px;
+  width: 9px;
+  height: 21px;
+  position: absolute;
+}
+.portfolio6-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.portfolio6-frame48096363 {
+  top: 395px;
+  left: 76px;
+  width: 385px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.portfolio6-text02 {
+  color: var(--dl-color-ref_neutral-neutral80);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 26px;
+  text-decoration: none;
+}
+.portfolio6-text04 {
+  color: var(--dl-color-ref_neutral-neutral60);
+  width: 385px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.portfolio6-mac-book-pro16 {
+  top: 169.76171875px;
+  left: 322px;
+  width: 1238.5px;
+  height: 662.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio6-shadow {
+  top: 643.5px;
+  left: 0px;
+  width: 1238px;
+  height: 19px;
+  opacity: 0.60;
+  position: absolute;
+  border-color: transparent;
+}
+.portfolio6-color {
+  top: 0px;
+  left: 57.75px;
+  width: 1127px;
+  height: 653px;
+  position: absolute;
+  border-color: transparent;
+}
+.portfolio6-mockup {
+  top: 29.25px;
+  left: 174.996826171875px;
+  width: 906.5020141601562px;
+  height: 562.190185546875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio6-mask2 {
+  top: 0px;
+  left: 0px;
+  width: 906.5020141601562px;
+  height: 562.190185546875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio6-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 907px;
+  height: 562px;
+  position: absolute;
+}
+.portfolio6-design {
+  top: -0.3251953125px;
+  left: -0.10302734375px;
+  width: 907px;
+  height: 563px;
+  position: absolute;
+  border-color: transparent;
+}

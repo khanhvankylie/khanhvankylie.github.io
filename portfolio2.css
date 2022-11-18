@@ -1,0 +1,210 @@
+.portfolio2-container {
+  min-height: 100vh;
+}
+.portfolio2-portfolio2 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(34, 34, 34, 1);
+}
+.portfolio2-frame48096364 {
+  top: 20px;
+  left: 30px;
+  width: 282px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.portfolio2-arrowleft {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.portfolio2-vuesaxlineararrowleft {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio2-arrowleft1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio2-vector {
+  top: 5.440000057220459px;
+  left: 10.536665916442871px;
+  width: 9px;
+  height: 21px;
+  position: absolute;
+}
+.portfolio2-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.portfolio2-frame48096370 {
+  top: 10%;
+  left: calc(50% - 487px);
+  width:80%;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.portfolio2-appiconblack512px {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 174px;
+  border-radius: 80px;
+  background-color: rgba(252, 253, 255, 1);
+}
+.portfolio2-logo {
+  width: 350px;
+  height: 400px;
+  position: absolute;
+  box-shadow: 22px -11px 28px 0px rgba(239, 244, 252, 0.5) ;
+}
+.portfolio2-appicon512px {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 80px;
+  background-image: linear-gradient(207deg, rgba(119, 162, 240, 1) 4%, rgba(48, 110, 224, 1) 17%, rgba(13, 84, 216, 1) 39%, rgba(17, 50, 142, 1) 65%, rgba(12, 32, 85, 1) 100%);
+}
+.portfolio2-property1symbol {
+  width: 350px;
+  height: 400px;
+  position: absolute;
+  box-shadow: 6px 7px 28px 0px rgba(26, 144, 211, 0.21130000054836273) ;
+}
+.portfolio2-scrolldown {
+  top: 550px;
+  left: 61px;
+  width: 101px;
+  display: flex;
+  color:#fff;
+  position: fixed;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.portfolio2-text2 {
+  color: var(--dl-color-ref_neutral-neutral70);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 12px;
+}
+.portfolio2-bichevrondoubledown {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.portfolio2-group {
+  top: 2.4991061687469482px;
+  left: 1.4991061687469482px;
+  width: 13.001524925231934px;
+  height: 11.001787185668945px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.portfolio2-vector1 {
+  top: 4px;
+  left: 0px;
+  width: 13px;
+  height: 7px;
+  position: absolute;
+}
+.portfolio2-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 7px;
+  position: absolute;
+}
