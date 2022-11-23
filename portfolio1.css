@@ -174,7 +174,7 @@
   align-self: auto;
   font-style: Bold;
   text-align: left;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 64px;
   font-stretch: normal;
@@ -206,7 +206,7 @@
   align-self: auto;
   font-style: Bold;
   text-align: right;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 64px;
   font-stretch: normal;
@@ -286,7 +286,7 @@
   align-self: auto;
   font-style: Bold;
   text-align: right;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 64px;
   font-stretch: normal;
@@ -365,7 +365,7 @@
   align-self: auto;
   font-style: Bold;
   text-align: right;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 64px;
   font-stretch: normal;
